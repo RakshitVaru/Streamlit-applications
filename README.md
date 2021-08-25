@@ -2,7 +2,7 @@
 
 ### How to use:
 
-1. #### Clone the repository using git clone 
+1. #### Clone the repository using git clone https://github.com/RakshitVaru/Streamlit-applications.git
 2. #### Go to the folder in local using your command line interface and activate the virtual environment.
 3. #### Run: pip install -r requirements.txt
 4. #### Run file using: streamlit run filename.py
